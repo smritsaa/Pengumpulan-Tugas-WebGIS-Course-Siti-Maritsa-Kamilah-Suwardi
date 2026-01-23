@@ -1,0 +1,4754 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-01-23T01:18:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9830651",
+        "leisure": "resort",
+        "name": "Mahagiri",
+        "note": "This area has changed completely. Currently building the hotel and a Beachclub in front. Need to wait for new Sat Image to map. 08/2016",
+        "tourism": "hotel",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4519036,
+              -8.6634477
+            ],
+            [
+              115.4513825,
+              -8.6635217
+            ],
+            [
+              115.4509894,
+              -8.663673
+            ],
+            [
+              115.4510317,
+              -8.6637989
+            ],
+            [
+              115.4512345,
+              -8.6644042
+            ],
+            [
+              115.451763,
+              -8.6645863
+            ],
+            [
+              115.4518121,
+              -8.6644596
+            ],
+            [
+              115.4519486,
+              -8.6640342
+            ],
+            [
+              115.451928,
+              -8.6639673
+            ],
+            [
+              115.4519036,
+              -8.6634477
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9830651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9830656",
+        "building": "yes",
+        "name": "The Sampan",
+        "tourism": "hotel",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                115.4515917,
+                -8.6655862
+              ],
+              [
+                115.4515326,
+                -8.6657397
+              ],
+              [
+                115.4516517,
+                -8.6657845
+              ],
+              [
+                115.4517108,
+                -8.665631
+              ],
+              [
+                115.4515917,
+                -8.6655862
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                115.4513077,
+                -8.665639
+              ],
+              [
+                115.4513747,
+                -8.6656717
+              ],
+              [
+                115.4514011,
+                -8.6656187
+              ],
+              [
+                115.4513341,
+                -8.665586
+              ],
+              [
+                115.4513077,
+                -8.665639
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                115.4513305,
+                -8.6655713
+              ],
+              [
+                115.4514517,
+                -8.6656257
+              ],
+              [
+                115.4514816,
+                -8.6655605
+              ],
+              [
+                115.4513604,
+                -8.6655061
+              ],
+              [
+                115.4513305,
+                -8.6655713
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9830656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9869698",
+        "name": "Kelingking Beach",
+        "natural": "beach",
+        "surface": "sand",
+        "tourism": "attraction",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4727606,
+              -8.7503093
+            ],
+            [
+              115.4728961,
+              -8.7505213
+            ],
+            [
+              115.4729873,
+              -8.7507029
+            ],
+            [
+              115.4730208,
+              -8.7508182
+            ],
+            [
+              115.4730329,
+              -8.7509124
+            ],
+            [
+              115.4730248,
+              -8.7510171
+            ],
+            [
+              115.472998,
+              -8.7512305
+            ],
+            [
+              115.47299,
+              -8.751428
+            ],
+            [
+              115.4729779,
+              -8.7517554
+            ],
+            [
+              115.4729363,
+              -8.7519515
+            ],
+            [
+              115.4728679,
+              -8.7520947
+            ],
+            [
+              115.4728029,
+              -8.7522233
+            ],
+            [
+              115.4728706,
+              -8.7522272
+            ],
+            [
+              115.4729256,
+              -8.75221
+            ],
+            [
+              115.4729927,
+              -8.7521808
+            ],
+            [
+              115.4730745,
+              -8.7521411
+            ],
+            [
+              115.4731375,
+              -8.7520894
+            ],
+            [
+              115.4731992,
+              -8.7520218
+            ],
+            [
+              115.4732206,
+              -8.7519436
+            ],
+            [
+              115.4732327,
+              -8.751868
+            ],
+            [
+              115.4732408,
+              -8.7517554
+            ],
+            [
+              115.4732475,
+              -8.7516546
+            ],
+            [
+              115.4732622,
+              -8.7514863
+            ],
+            [
+              115.4732676,
+              -8.7512954
+            ],
+            [
+              115.4732582,
+              -8.7510621
+            ],
+            [
+              115.473226,
+              -8.7508368
+            ],
+            [
+              115.4731549,
+              -8.7505744
+            ],
+            [
+              115.4731107,
+              -8.7504577
+            ],
+            [
+              115.4730624,
+              -8.7503967
+            ],
+            [
+              115.4729806,
+              -8.7503384
+            ],
+            [
+              115.4728505,
+              -8.7503066
+            ],
+            [
+              115.4727606,
+              -8.7503093
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9869698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/9869701",
+        "name": "Pasih Uwug",
+        "name:en": "Broken Beach",
+        "natural": "water",
+        "tourism": "attraction",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4504621,
+              -8.7330582
+            ],
+            [
+              115.4504613,
+              -8.7331068
+            ],
+            [
+              115.4504634,
+              -8.7331728
+            ],
+            [
+              115.4504735,
+              -8.7332318
+            ],
+            [
+              115.4505238,
+              -8.7332802
+            ],
+            [
+              115.450621,
+              -8.7333226
+            ],
+            [
+              115.4507256,
+              -8.7333551
+            ],
+            [
+              115.4508396,
+              -8.7333776
+            ],
+            [
+              115.450914,
+              -8.733379
+            ],
+            [
+              115.450959,
+              -8.7333558
+            ],
+            [
+              115.4509925,
+              -8.7333253
+            ],
+            [
+              115.4510629,
+              -8.7332365
+            ],
+            [
+              115.4511223,
+              -8.733151
+            ],
+            [
+              115.4511608,
+              -8.7330933
+            ],
+            [
+              115.4510964,
+              -8.7330005
+            ],
+            [
+              115.4510213,
+              -8.7329382
+            ],
+            [
+              115.4508785,
+              -8.7328971
+            ],
+            [
+              115.4507437,
+              -8.7328852
+            ],
+            [
+              115.4506257,
+              -8.7329031
+            ],
+            [
+              115.4505533,
+              -8.7329323
+            ],
+            [
+              115.450496,
+              -8.7329682
+            ],
+            [
+              115.4504766,
+              -8.7330049
+            ],
+            [
+              115.4504621,
+              -8.7330582
+            ]
+          ]
+        ]
+      },
+      "id": "relation/9869701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/481263942",
+        "building": "hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4548572,
+              -8.6935069
+            ],
+            [
+              115.4548373,
+              -8.6934339
+            ],
+            [
+              115.4547241,
+              -8.693464
+            ],
+            [
+              115.454744,
+              -8.693537
+            ],
+            [
+              115.4548572,
+              -8.6935069
+            ]
+          ]
+        ]
+      },
+      "id": "way/481263942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/530157007",
+        "building": "yes",
+        "internet_access": "yes",
+        "name": "Ring Sameton",
+        "tourism": "hotel",
+        "website": "https://ringsameton-nusapenida.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.513549,
+              -8.6781708
+            ],
+            [
+              115.5135758,
+              -8.6781771
+            ],
+            [
+              115.5135158,
+              -8.6784247
+            ],
+            [
+              115.5136046,
+              -8.6784457
+            ],
+            [
+              115.5136945,
+              -8.6780745
+            ],
+            [
+              115.5134918,
+              -8.6780265
+            ],
+            [
+              115.5134011,
+              -8.6784006
+            ],
+            [
+              115.5134883,
+              -8.6784213
+            ],
+            [
+              115.513549,
+              -8.6781708
+            ]
+          ]
+        ]
+      },
+      "id": "way/530157007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706858646",
+        "name": "Pondok Baruna Frangipani",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4514502,
+              -8.6652004
+            ],
+            [
+              115.4513277,
+              -8.6654632
+            ],
+            [
+              115.4517277,
+              -8.6656276
+            ],
+            [
+              115.4518418,
+              -8.6653626
+            ],
+            [
+              115.4514502,
+              -8.6652004
+            ]
+          ]
+        ]
+      },
+      "id": "way/706858646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706858657",
+        "name": "Silver's Bungalows",
+        "tourism": "hotel",
+        "website": "http://www.silversbungalows.com/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4509521,
+              -8.6652746
+            ],
+            [
+              115.4508928,
+              -8.6653982
+            ],
+            [
+              115.4512077,
+              -8.6655459
+            ],
+            [
+              115.451267,
+              -8.6654223
+            ],
+            [
+              115.4509521,
+              -8.6652746
+            ]
+          ]
+        ]
+      },
+      "id": "way/706858657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/711579137",
+        "leisure": "swimming_pool",
+        "location": "outdoor",
+        "name": "Tembeling Natural Pool",
+        "name:de": "Temeling Natürliche Badestelle",
+        "name:en": "Tembeling Natural Pool",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4968775,
+              -8.7704551
+            ],
+            [
+              115.4968314,
+              -8.7704881
+            ],
+            [
+              115.4968314,
+              -8.7705148
+            ],
+            [
+              115.4968314,
+              -8.7705509
+            ],
+            [
+              115.4968695,
+              -8.770576
+            ],
+            [
+              115.4969108,
+              -8.770576
+            ],
+            [
+              115.4969347,
+              -8.7705305
+            ],
+            [
+              115.4969394,
+              -8.7704802
+            ],
+            [
+              115.4969251,
+              -8.770463
+            ],
+            [
+              115.4968775,
+              -8.7704551
+            ]
+          ]
+        ]
+      },
+      "id": "way/711579137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882282264",
+        "brand": "Tunjung Kuning Villa",
+        "building": "yes",
+        "layer": "-1",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4775203,
+              -8.6960297
+            ],
+            [
+              115.4775134,
+              -8.6962119
+            ],
+            [
+              115.4775282,
+              -8.696211
+            ],
+            [
+              115.4777361,
+              -8.6962145
+            ],
+            [
+              115.4777379,
+              -8.6960376
+            ],
+            [
+              115.4775203,
+              -8.6960297
+            ]
+          ]
+        ]
+      },
+      "id": "way/882282264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/882833650",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.4775352,
+              -8.6966195
+            ],
+            [
+              115.4774984,
+              -8.697167
+            ],
+            [
+              115.4777337,
+              -8.697167
+            ],
+            [
+              115.4777525,
+              -8.6966303
+            ],
+            [
+              115.4775352,
+              -8.6966195
+            ]
+          ]
+        ]
+      },
+      "id": "way/882833650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1097226641",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Ampel Hill Homestay",
+        "rooms": "4",
+        "source": "local knowledge",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115.5150125,
+              -8.6936967
+            ],
+            [
+              115.5146702,
+              -8.6937385
+            ],
+            [
+              115.5146711,
+              -8.6938643
+            ],
+            [
+              115.514676,
+              -8.6941214
+            ],
+            [
+              115.5147155,
+              -8.6943012
+            ],
+            [
+              115.5149449,
+              -8.6942487
+            ],
+            [
+              115.5150188,
+              -8.6942295
+            ],
+            [
+              115.5150741,
+              -8.6941805
+            ],
+            [
+              115.5151419,
+              -8.6941079
+            ],
+            [
+              115.5152059,
+              -8.694066
+            ],
+            [
+              115.5151519,
+              -8.6939404
+            ],
+            [
+              115.5150125,
+              -8.6936967
+            ]
+          ]
+        ]
+      },
+      "id": "way/1097226641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/41813096",
+        "bridge": "yes",
+        "bridge:structure": "suspension",
+        "highway": "unclassified",
+        "layer": "1",
+        "motorcar": "no",
+        "motorcycle": "yes",
+        "name": "Yellow Bridge",
+        "name:en": "Yellow Bridge",
+        "surface": "metal",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            115.4511836,
+            -8.6947238
+          ],
+          [
+            115.4510688,
+            -8.6944008
+          ],
+          [
+            115.450796,
+            -8.6936334
+          ],
+          [
+            115.450631,
+            -8.6931694
+          ]
+        ]
+      },
+      "id": "way/41813096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2477303905",
+        "name": "Friends of the National Parks Foundation",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5104987,
+          -8.675884
+        ]
+      },
+      "id": "node/2477303905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721060260",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5581425,
+          -8.6724193
+        ]
+      },
+      "id": "node/2721060260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721145661",
+        "name": "Banah Cliff sunset point",
+        "name:en": "Banah Cliff",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.486667,
+          -8.7677195
+        ]
+      },
+      "id": "node/2721145661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2721145685",
+        "amenity": "dive_centre",
+        "name": "Penida Dive Resort",
+        "tourism": "guest_house",
+        "website": "https://www.penida-diving.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4885124,
+          -8.6806761
+        ]
+      },
+      "id": "node/2721145685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2730887920",
+        "description": "better in the morning",
+        "name": "Bana Cliff viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4832665,
+          -8.7598019
+        ]
+      },
+      "id": "node/2730887920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2730888146",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4504358,
+          -8.733105
+        ]
+      },
+      "id": "node/2730888146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2907339692",
+        "ele": "-13",
+        "name": "Manta Point",
+        "sport": "scuba_diving",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5259217,
+          -8.7947861
+        ]
+      },
+      "id": "node/2907339692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426141994",
+        "name": "Kelingking sunset view point",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4768886,
+          -8.7525232
+        ]
+      },
+      "id": "node/3426141994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3824123970",
+        "addr:city": "Bali",
+        "addr:housenumber": "Sampalan point, Dese Batununggul",
+        "addr:postcode": "80771",
+        "addr:street": "Nusa Penida",
+        "name": "KUBU GANESH Guesthouse",
+        "smoking": "outside",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.561883,
+          -8.6723602
+        ]
+      },
+      "id": "node/3824123970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3902525069",
+        "addr:city": "Nusa Penida",
+        "addr:housenumber": "1",
+        "addr:postcode": "80771",
+        "addr:street": "Desa Jl. Batu Nunggul",
+        "email": "nusapenidahotels@gmail.com",
+        "internet_access": "wlan",
+        "name": "Nusa Garden Bungalow",
+        "name:ru": "Nusa Garden Bungalow",
+        "opening_hours": "24/7",
+        "phone": "+62 812-3990-1421",
+        "smoking": "separated",
+        "tourism": "guest_house",
+        "website": "https://nusa-penida.info/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5594797,
+          -8.6749484
+        ]
+      },
+      "id": "node/3902525069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3903133759",
+        "information": "info_tour",
+        "name": "Tour around Nusa Penida",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5596163,
+          -8.6749825
+        ]
+      },
+      "id": "node/3903133759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4223251989",
+        "name": "Boat service to Gilli Islands / Nusa Penida",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.450697,
+          -8.6930084
+        ]
+      },
+      "id": "node/4223251989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310112199",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4510974,
+          -8.7057249
+        ]
+      },
+      "id": "node/4310112199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4310223089",
+        "internet_access": "wlan",
+        "name": "Full Moon Bungalow",
+        "opening_hours": "24/7",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5153664,
+          -8.6781497
+        ]
+      },
+      "id": "node/4310223089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4316436093",
+        "name": "Planet nomadas dive surf and yoga resort",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4541461,
+          -8.6637824
+        ]
+      },
+      "id": "node/4316436093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361982045",
+        "name": "Sukanusa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4503365,
+          -8.6690842
+        ]
+      },
+      "id": "node/4361982045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361982046",
+        "name": "Puri Kirana",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4509161,
+          -8.6657844
+        ]
+      },
+      "id": "node/4361982046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361982052",
+        "name": "Bima Homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4502675,
+          -8.6719799
+        ]
+      },
+      "id": "node/4361982052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361982053",
+        "name": "Medal Jaya Homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4510484,
+          -8.6667672
+        ]
+      },
+      "id": "node/4361982053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4361984091",
+        "name": "Padan Wangi Homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4518638,
+          -8.6669469
+        ]
+      },
+      "id": "node/4361984091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382850694",
+        "name:fr": "Dlick Villa",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4508112,
+          -8.6763796
+        ]
+      },
+      "id": "node/4382850694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4404034989",
+        "addr:street": "JL. Raya Ped",
+        "email": "jero.rawa@gmail.com",
+        "internet_access": "wlan",
+        "name": "Jero Rawa",
+        "name:de": "JERO RAWA",
+        "name:en": "JERO RAWA",
+        "phone": "+62-85-205866886",
+        "tourism": "hostel",
+        "website": "http://www.jerorawa.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5128897,
+          -8.6762429
+        ]
+      },
+      "id": "node/4404034989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405792092",
+        "name:de": "Nusa Penida Watersport Dive Center",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4873364,
+          -8.6829565
+        ]
+      },
+      "id": "node/4405792092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407823114",
+        "name:de": "Green Lion Sanctuary Turtle Conservation",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4920872,
+          -8.6747361
+        ]
+      },
+      "id": "node/4407823114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437552300",
+        "name:en": "Surya Homestay",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4507945,
+          -8.666835
+        ]
+      },
+      "id": "node/4437552300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4437552799",
+        "name:en": "Surya Home Stay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4507495,
+          -8.6667591
+        ]
+      },
+      "id": "node/4437552799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4470930989",
+        "name:en": "Mangrove Tours",
+        "name:nl": "Mangrove Tours",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4653712,
+          -8.6660529
+        ]
+      },
+      "id": "node/4470930989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4529961393",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4864351,
+          -8.7609551
+        ]
+      },
+      "id": "node/4529961393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4537611491",
+        "name": "Ananta Bungalow",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4634874,
+          -8.7169431
+        ]
+      },
+      "id": "node/4537611491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549076032",
+        "amenity": "place_of_worship",
+        "name:en": "Pura Goa Giri Putri",
+        "name:it": "Goa Giri Putri",
+        "religion": "hindu",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5860635,
+          -8.7088062
+        ]
+      },
+      "id": "node/4549076032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574557791",
+        "internet_access": "wlan",
+        "name:en": "Krinsa Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4893955,
+          -8.7048928
+        ]
+      },
+      "id": "node/4574557791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4574559591",
+        "name:en": "Penginapan Yuda Homestay",
+        "phone": "+62081236457944",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5179309,
+          -8.6784577
+        ]
+      },
+      "id": "node/4574559591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616468237",
+        "amenity": "place_of_worship",
+        "artwork_type": "statue",
+        "religion": "hindu",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5011277,
+          -8.7119024
+        ]
+      },
+      "id": "node/4616468237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710004790",
+        "name:en": "Simpang in bungalows",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4885811,
+          -8.7076052
+        ]
+      },
+      "id": "node/4710004790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4753044221",
+        "description": "Underwater sculptures",
+        "name": "Underwater Buddha Statue Garden",
+        "scuba_diving:entry:boat": "yes",
+        "scuba_diving:type:snorkeling": "yes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4662176,
+          -8.68443
+        ]
+      },
+      "id": "node/4753044221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754165551",
+        "name": "Ruji Ananda Cottages",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4641159,
+          -8.7180155
+        ]
+      },
+      "id": "node/4754165551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4810929049",
+        "description": "Saran Cliff Point",
+        "information": "guidepost",
+        "name": "Saran Cliff Point/Derek Hill View/Templin",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5078904,
+          -8.7609759
+        ]
+      },
+      "id": "node/4810929049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4812582722",
+        "name": "Broken Bay",
+        "natural": "bay",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4500655,
+          -8.7294842
+        ]
+      },
+      "id": "node/4812582722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4817130602",
+        "description": "Sarent Cliff Point",
+        "information": "guidepost",
+        "name": "Sarent Cliff Point/Derek Hill View",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5023202,
+          -8.7637921
+        ]
+      },
+      "id": "node/4817130602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4868135221",
+        "name": "Saren Cliff point",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.501636,
+          -8.7746895
+        ]
+      },
+      "id": "node/4868135221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930807723",
+        "description:en": "Kelingking Beach viewpoint",
+        "description:pl": "Punkt widokowy na plażę Kelingking",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.474215,
+          -8.7511763
+        ]
+      },
+      "id": "node/4930807723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4930808822",
+        "name": "Sunset point",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4866036,
+          -8.7606143
+        ]
+      },
+      "id": "node/4930808822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4976580322",
+        "name:en": "Cemara's Beach Homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5721834,
+          -8.6782469
+        ]
+      },
+      "id": "node/4976580322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5023842823",
+        "addr:postcode": "80771",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped, Ped, Nusapenida, Ped, Nusapenida, Kabupaten Klungkung, Bali 80771",
+        "email": "yasahomestay@gmail.com",
+        "internet_access": "wlan",
+        "name": "Indonesia & English",
+        "name:en": "Yasa Homestay",
+        "opening_hours": "24/7",
+        "operator": "Teja Putra",
+        "phone": "+6282144148663",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.491738,
+          -8.676027
+        ]
+      },
+      "id": "node/5023842823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5027690822",
+        "addr:housenumber": "80771",
+        "addr:street": "sakti",
+        "internet_access": "wlan",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5093958,
+          -8.7146264
+        ]
+      },
+      "id": "node/5027690822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5052389021",
+        "name:en": "Wani Bali",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4908233,
+          -8.6784469
+        ]
+      },
+      "id": "node/5052389021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5091759551",
+        "name": "Jiva Bungalows Lembonang",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4522976,
+          -8.6667844
+        ]
+      },
+      "id": "node/5091759551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5091762203",
+        "name": "Bamboo Bungalows Nusa Penida",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5791959,
+          -8.6886134
+        ]
+      },
+      "id": "node/5091762203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5094087724",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5364452,
+          -8.6840533
+        ]
+      },
+      "id": "node/5094087724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5136871221",
+        "addr:postcode": "80771",
+        "addr:street": "jl. Raya Toyapakeh-Ped Nusa Penida",
+        "email": "ekaputraa7@gmail.com",
+        "name:en": "Penida Tourist Transport",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "085237939597",
+        "tourism": "information",
+        "website": "http://www.penidatouristtransport.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4909085,
+          -8.6777243
+        ]
+      },
+      "id": "node/5136871221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5177482522",
+        "name:en": "UD ANDRE CARBO",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4920595,
+          -8.6752449
+        ]
+      },
+      "id": "node/5177482522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5251727321",
+        "name:en": "Legend Diving",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4504308,
+          -8.6672614
+        ]
+      },
+      "id": "node/5251727321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5276717922",
+        "addr:street": "jalan raya ped nusa penida",
+        "email": "denbencingah@gmail.com",
+        "name:en": "Denbencingah Triangle Cottage",
+        "opening_hours": "24/7",
+        "operator": "Agung Bencingah",
+        "phone": "+6281246588878",
+        "tourism": "hotel",
+        "website": "http://denbencingah.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5242027,
+          -8.6787868
+        ]
+      },
+      "id": "node/5276717922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5297194176",
+        "name:en": "Pondok Kana",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5523829,
+          -8.6729431
+        ]
+      },
+      "id": "node/5297194176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5297895321",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4522981,
+          -8.6668899
+        ]
+      },
+      "id": "node/5297895321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5314310321",
+        "name:en": "Blue Corner Dive",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4978241,
+          -8.6726816
+        ]
+      },
+      "id": "node/5314310321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5323214442",
+        "name": "Manta Point",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4539857,
+          -8.7388438
+        ]
+      },
+      "id": "node/5323214442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5323214443",
+        "description": "Snorkeling point",
+        "scuba_diving:type:snorkeling": "yes",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5518215,
+          -8.6720595
+        ]
+      },
+      "id": "node/5323214443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5326967622",
+        "internet_access": "wlan",
+        "name:en": "Pondok Kana",
+        "name:fr": "Pondok kana",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5524325,
+          -8.6728887
+        ]
+      },
+      "id": "node/5326967622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509819021",
+        "internet_access": "wlan",
+        "name:en": "Ramwan Guest House",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5192197,
+          -8.6794102
+        ]
+      },
+      "id": "node/5509819021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5509886321",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5189965,
+          -8.67868
+        ]
+      },
+      "id": "node/5509886321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5549601045",
+        "internet_access": "wlan",
+        "name:en": "Broken Beach Villa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4597875,
+          -8.7292052
+        ]
+      },
+      "id": "node/5549601045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5573156421",
+        "addr:street": "Jalan Bankar Anyar",
+        "internet_access": "wlan",
+        "name:en": "Penida Sunrise Hill",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4821862,
+          -8.6876119
+        ]
+      },
+      "id": "node/5573156421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5624763123",
+        "name:en": "Sunrise penida hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4824805,
+          -8.6864886
+        ]
+      },
+      "id": "node/5624763123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5645284322",
+        "addr:city": "Nusa Penida, Klungkung, Bali",
+        "addr:postcode": "80771",
+        "addr:street": "Jalan Batumulapan",
+        "internet_access": "wlan",
+        "name:en": "Swan Beach Inn",
+        "opening_hours": "24/7",
+        "operator": "I Ketut Sihantaya",
+        "phone": "+62 85237770926",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5745058,
+          -8.6807472
+        ]
+      },
+      "id": "node/5645284322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5668159427",
+        "name:en": "Hanging Villa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4534866,
+          -8.6994007
+        ]
+      },
+      "id": "node/5668159427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5684756617",
+        "name": "Coco Resort Penida",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4745913,
+          -8.7093015
+        ]
+      },
+      "id": "node/5684756617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5684768333",
+        "name": "Point de vue (coucher soleil)",
+        "name:en": "Sunset Viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4745421,
+          -8.6925495
+        ]
+      },
+      "id": "node/5684768333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5696169023",
+        "internet_access": "wlan",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5365717,
+          -8.6841841
+        ]
+      },
+      "id": "node/5696169023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5713382121",
+        "name:en": "Teletubbies Hills",
+        "name:fr": "Teletubbies Hills",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5740222,
+          -8.7820035
+        ]
+      },
+      "id": "node/5713382121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5732894721",
+        "name:en": "Teletubbies Hill",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5793695,
+          -8.7879724
+        ]
+      },
+      "id": "node/5732894721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749083621",
+        "name:en": "Akasia Home Stay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5572848,
+          -8.6735687
+        ]
+      },
+      "id": "node/5749083621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5753769621",
+        "name:en": "Sunset viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5262438,
+          -8.7263545
+        ]
+      },
+      "id": "node/5753769621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754194921",
+        "name:en": "Teletubbies hills",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5746054,
+          -8.7869264
+        ]
+      },
+      "id": "node/5754194921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5757581521",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4858164,
+          -8.7683168
+        ]
+      },
+      "id": "node/5757581521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5785356353",
+        "name:en": "Bill house",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5169649,
+          -8.7292717
+        ]
+      },
+      "id": "node/5785356353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5785356653",
+        "name:en": "Bill house Airbnb",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5169655,
+          -8.7299172
+        ]
+      },
+      "id": "node/5785356653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5802610953",
+        "name:en": "Mas Gading hill cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5215566,
+          -8.6809771
+        ]
+      },
+      "id": "node/5802610953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808215653",
+        "name": "Green Beach Inn",
+        "name:en": "PRADANA BEACH INN LUXURY",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5742001,
+          -8.68037
+        ]
+      },
+      "id": "node/5808215653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5808328556",
+        "name:en": "Coconut Hill Cottage",
+        "name:fr": "Coconut Hill Cottage",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5297307,
+          -8.6774402
+        ]
+      },
+      "id": "node/5808328556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5812219855",
+        "addr:housenumber": "277",
+        "addr:street": "Jalan Ancak Sari",
+        "email": "info@theacala.com",
+        "internet_access": "wlan",
+        "name:en": "The Acala",
+        "phone": "+62 821 4703 3238",
+        "tourism": "hotel",
+        "website": "http://www.theacala.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4511551,
+          -8.6896307
+        ]
+      },
+      "id": "node/5812219855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5824776753",
+        "description:en": "View on Nusa Penida",
+        "direction": "120",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4536722,
+          -8.7020566
+        ]
+      },
+      "id": "node/5824776753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5828537686",
+        "addr:street": "jl Buyuk Batununggul nusa penida bali",
+        "internet_access": "wlan",
+        "name:de": "Exotic View Cottage",
+        "name:en": "Exotic View Cottage",
+        "name:es": "Exotic View Cottage",
+        "phone": "+6082144492200",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5643381,
+          -8.6739598
+        ]
+      },
+      "id": "node/5828537686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5828657097",
+        "name:en": "Family Garden Cottages",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5247667,
+          -8.678154
+        ]
+      },
+      "id": "node/5828657097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5837919486",
+        "name:en": "Suana Point",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5992443,
+          -8.7270417
+        ]
+      },
+      "id": "node/5837919486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5837997287",
+        "name:en": "Mangrove Forest",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4673114,
+          -8.6668395
+        ]
+      },
+      "id": "node/5837997287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5864719586",
+        "addr:city": "Nusa Penida island",
+        "addr:postcode": "80771",
+        "addr:street": "Desa Batu Nunggul, Banjar Mentigi",
+        "description": "Hostel Nusa Penida is located in the center of the main village in a quiet place downtown, close to cafes, bars and local market. It is ideal for the single traveller, couple or small family. Rooms are equipped with a fan and twin bunk bed or double bed. ",
+        "email": "nusapenidahotels@gmail.com",
+        "internet_access": "wlan",
+        "name": "Hostel Nusa Penida",
+        "name:en": "Hostel Nusa Penida",
+        "name:ru": "Hostel Nusa Penida",
+        "opening_hours": "24/7",
+        "phone": "+62 812 39901421",
+        "rooms": "16",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "https://www.nusapenida.info/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5568955,
+          -8.6739784
+        ]
+      },
+      "id": "node/5864719586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5875481285",
+        "name:en": "Septa Guesthouse",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4510935,
+          -8.6666893
+        ]
+      },
+      "id": "node/5875481285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5881256785",
+        "name:en": "Do not take this road - it’s very ugly",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.498989,
+          -8.7296122
+        ]
+      },
+      "id": "node/5881256785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5898168086",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Citiz’s House",
+        "name:en": "Citiz’s House",
+        "phone": "+6282144798660",
+        "rooms": "4",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4894668,
+          -8.682086
+        ]
+      },
+      "id": "node/5898168086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5928596087",
+        "name:en": "Loving Penida Viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4602425,
+          -8.6978859
+        ]
+      },
+      "id": "node/5928596087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5965469385",
+        "name": "Peguyangan",
+        "name:en": "Peguyangan Waterfall",
+        "tourism": "attraction",
+        "waterway": "waterfall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5183751,
+          -8.7814362
+        ]
+      },
+      "id": "node/5965469385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5973662088",
+        "name:en": "Linggy 2",
+        "name:fr": "Linggy 2",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4513442,
+          -8.6668932
+        ]
+      },
+      "id": "node/5973662088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5987460686",
+        "addr:postcode": "80771",
+        "addr:street": "Kampung Toyapakeh",
+        "internet_access": "wlan",
+        "name:en": "Losmen Tenang",
+        "phone": "0813-3775-1346",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.487558,
+          -8.6818203
+        ]
+      },
+      "id": "node/5987460686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6008782386",
+        "internet_access": "wlan",
+        "name:en": "Bukit Taman Cottage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4505997,
+          -8.6811587
+        ]
+      },
+      "id": "node/6008782386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6052479544",
+        "addr:city": "Nusa Penida island",
+        "email": "Nusapenidahotels@gmail.com",
+        "internet_access": "wlan",
+        "name": "Suny Beach House",
+        "name:en": "Sunny Beach",
+        "operator": "Artem",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5627913,
+          -8.6727218
+        ]
+      },
+      "id": "node/6052479544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243171785",
+        "email": "Nusapenidahotels@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Buddha House",
+        "operator": "Artem",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5627502,
+          -8.6734729
+        ]
+      },
+      "id": "node/6243171785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6243499399",
+        "addr:city": "Nusa Penida",
+        "addr:housenumber": "99",
+        "addr:postcode": "80771",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "brand": "Hotel Arsa Santhi",
+        "email": "info@arsasanthinusapenida.com",
+        "internet_access": "yes",
+        "level": "2",
+        "name": "Hotel Arsa Santhi Nusa Penida",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+6281236766618,",
+        "rooms": "15",
+        "smoking": "outside",
+        "stars": "3.5",
+        "tourism": "hotel",
+        "website": "https://www.arsasanthinusapenida.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4918158,
+          -8.6758145
+        ]
+      },
+      "id": "node/6243499399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6257538185",
+        "name:en": "Acala",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4980628,
+          -8.6738491
+        ]
+      },
+      "id": "node/6257538185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6282456785",
+        "name:en": "The Mesare Resort",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.540422,
+          -8.7387891
+        ]
+      },
+      "id": "node/6282456785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6294534185",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5801903,
+          -8.689667
+        ]
+      },
+      "id": "node/6294534185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302504086",
+        "addr:city": "nusa penida",
+        "addr:postcode": "80771",
+        "addr:street": "Jl. Raya Toya Pakeh - Ped, Sakti, Nusapenida, Kabupaten Klungkung, Bali 80771, Indonesia",
+        "brand": "hotel",
+        "email": "manager@themungkulcottage.com",
+        "internet_access": "wlan",
+        "name:en": "The Mungkul Cottage",
+        "phone": "+6281337055747",
+        "rooms": "3",
+        "tourism": "hotel",
+        "website": "http://www.themungkulcottage.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4913583,
+          -8.6948212
+        ]
+      },
+      "id": "node/6302504086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6302513285",
+        "name:en": "Mungkul cottage view",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.491451,
+          -8.6947644
+        ]
+      },
+      "id": "node/6302513285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6334759085",
+        "internet_access": "wlan",
+        "name:en": "Alam Slumbung Resort and restaurant",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4781277,
+          -8.7053535
+        ]
+      },
+      "id": "node/6334759085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6360073686",
+        "name:en": "bamboo viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4882192,
+          -8.6894783
+        ]
+      },
+      "id": "node/6360073686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6413211185",
+        "description:en": "Viewpoint on Kelingking Beach",
+        "direction": "201",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.47356,
+          -8.7500061
+        ]
+      },
+      "id": "node/6413211185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6414021785",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Miko Bali Bungalow",
+        "rooms": "4",
+        "swimming_pool": "yes",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4904397,
+          -8.7038667
+        ]
+      },
+      "id": "node/6414021785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6418734785",
+        "name:en": "kubu sental homestay",
+        "name:fr": "kubu sental bengalow",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5365577,
+          -8.6884801
+        ]
+      },
+      "id": "node/6418734785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6437487785",
+        "addr:postcode": "80372",
+        "addr:street": "Jalan Anjung Angkuh, Sebunibus, Sakti",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name:en": "Abasan Hill Hotel and Spa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4835083,
+          -8.6854913
+        ]
+      },
+      "id": "node/6437487785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6440358595",
+        "description:en": "Viewpoint Mt. Agung",
+        "direction": "0",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5416303,
+          -8.6775225
+        ]
+      },
+      "id": "node/6440358595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6444288785",
+        "name:en": "Gentari Homestay",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5412168,
+          -8.6776021
+        ]
+      },
+      "id": "node/6444288785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6475523585",
+        "internet_access": "wlan",
+        "name:de": "Santen Beach Bungalows",
+        "name:en": "Santen Beach Bungalows",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4913787,
+          -8.6735159
+        ]
+      },
+      "id": "node/6475523585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6479617985",
+        "name:en": "Gowinda Guest House",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5802438,
+          -8.6900742
+        ]
+      },
+      "id": "node/6479617985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6512275785",
+        "addr:postcode": "80771",
+        "addr:street": "Jl. Raya Banjar Pendem",
+        "name:en": "Ayu Hill Bungalows",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5181556,
+          -8.7031356
+        ]
+      },
+      "id": "node/6512275785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6520178285",
+        "name:en": "Dungkap Mount View - new location",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5472912,
+          -8.7414448
+        ]
+      },
+      "id": "node/6520178285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6543855685",
+        "name:en": "Tunjung Kuning Creative Villas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4768448,
+          -8.697012
+        ]
+      },
+      "id": "node/6543855685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6598841185",
+        "name:en": "Lembongan Bagus Villas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4503465,
+          -8.6769723
+        ]
+      },
+      "id": "node/6598841185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6640366185",
+        "direction": "180",
+        "name": "Manta Point Cliff view",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5259613,
+          -8.7917901
+        ]
+      },
+      "id": "node/6640366185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6649527185",
+        "name:en": "Pita-mata villas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5781072,
+          -8.6861423
+        ]
+      },
+      "id": "node/6649527185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6655312185",
+        "direction": "120",
+        "name:en": "Ceningan cliff",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4604164,
+          -8.6966831
+        ]
+      },
+      "id": "node/6655312185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6665457812",
+        "direction": "270",
+        "name": "Sunset viewpoint",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4590049,
+          -8.7150534
+        ]
+      },
+      "id": "node/6665457812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6669875974",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4509635,
+          -8.7325862
+        ]
+      },
+      "id": "node/6669875974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6684409953",
+        "description:en": "Peguyangan temple cliff view",
+        "direction": "270",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5197593,
+          -8.7825381
+        ]
+      },
+      "id": "node/6684409953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6690224623",
+        "information": "guidepost",
+        "name": "Tembeling Forest and Sea Temple",
+        "tourism": "information"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5065073,
+          -8.7568105
+        ]
+      },
+      "id": "node/6690224623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6704447387",
+        "description:cs": "Vyhlídka na malý ostrov (Bez lidí, cesta mezi stromy)",
+        "description:en": "Viewpoint on small island (without people, way between trees)",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.454766,
+          -8.7355602
+        ]
+      },
+      "id": "node/6704447387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6704450285",
+        "name": "Place On Beach For Your Own Tent",
+        "name:cs": "Místo na pláži pro váš vlastní stan",
+        "name:en": "Place On Beach For Your Own Tent",
+        "opening_hours": "24/7",
+        "tourism": "camp_site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.499008,
+          -8.672412
+        ]
+      },
+      "id": "node/6704450285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6704450286",
+        "name:cs": "Vyhlídka na Teletubbies Hills",
+        "name:en": "Viewpoint on Teletubbies Hills",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5747626,
+          -8.7855554
+        ]
+      },
+      "id": "node/6704450286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6720941070",
+        "addr:city": "Nusa Penida",
+        "addr:postcode": "80771",
+        "addr:street": "jalan Tain Besi, Batununggul, Nusa Penida,",
+        "guest_house": "hotel",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "The Rahayu Cottage",
+        "phone": "+6281212254616",
+        "rooms": "4",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5606637,
+          -8.6773838
+        ]
+      },
+      "id": "node/6720941070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6725199479",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Kulkul bungalow",
+        "rooms": "9",
+        "tourism": "guest_house",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5147015,
+          -8.6796336
+        ]
+      },
+      "id": "node/6725199479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6737778485",
+        "name:en": "Speedboat port",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5592205,
+          -8.671993
+        ]
+      },
+      "id": "node/6737778485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6744104286",
+        "name:en": "Bukit Teletubies",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5747718,
+          -8.7855079
+        ]
+      },
+      "id": "node/6744104286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6785106285",
+        "name:en": "Sentulan Garden",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4912391,
+          -8.7466107
+        ]
+      },
+      "id": "node/6785106285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6792287285",
+        "addr:street": "Banjar Giria Tengah Nusa Penida, 80771, Nusa Penida",
+        "internet_access": "wlan",
+        "name:de": "Write Hostel",
+        "name:en": "Write Hostel",
+        "phone": "+62 812-3626-871",
+        "tourism": "hostel",
+        "website": "https://www.booking.com/Share-hsCBVr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5625439,
+          -8.6744113
+        ]
+      },
+      "id": "node/6792287285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6796259785",
+        "name:en": "Safsia homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4888126,
+          -8.6825704
+        ]
+      },
+      "id": "node/6796259785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6902081485",
+        "name:en": "Penida Bintang Resort",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4764749,
+          -8.7079607
+        ]
+      },
+      "id": "node/6902081485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6908358585",
+        "name:en": "Kamasan hotel here",
+        "name:ru": "Kamasan hotel здесь",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4887789,
+          -8.6905322
+        ]
+      },
+      "id": "node/6908358585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934375386",
+        "addr:postcode": "80771",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "email": "info@apneapenida.com",
+        "name:en": "Apnea Penida Freediving and Yoga school",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "operator": "www.apneapenida.com",
+        "phone": "+6282146815129",
+        "tourism": "attraction",
+        "website": "https://apneapenida.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5121911,
+          -8.6758422
+        ]
+      },
+      "id": "node/6934375386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6976292385",
+        "addr:postcode": "80771",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "email": "gustara19@gmail.com",
+        "internet_access": "wlan",
+        "name:en": "Pondok Bamboo Villa",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Gustu",
+        "phone": "083119394919",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.566546,
+          -8.6745609
+        ]
+      },
+      "id": "node/6976292385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551230",
+        "name": "Artha Nusa",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5423037,
+          -8.6782373
+        ]
+      },
+      "id": "node/7005551230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551231",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Ary's guesthouse",
+        "phone": "+62 813-5338-8121",
+        "rooms": "5",
+        "swimming_pool": "yes",
+        "tourism": "guest_house",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4906731,
+          -8.7038249
+        ]
+      },
+      "id": "node/7005551231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551233",
+        "name": "Klumpu Villa and restaurant",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.525956,
+          -8.7203744
+        ]
+      },
+      "id": "node/7005551233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551234",
+        "name": "The Tandjung Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4897894,
+          -8.7017831
+        ]
+      },
+      "id": "node/7005551234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551236",
+        "name": "Wahyu homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.499003,
+          -8.7095252
+        ]
+      },
+      "id": "node/7005551236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551244",
+        "name": "Penida Paradise",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4892007,
+          -8.6866176
+        ]
+      },
+      "id": "node/7005551244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551246",
+        "name": "Juan Beach Bungalows",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5847541,
+          -8.7062326
+        ]
+      },
+      "id": "node/7005551246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551248",
+        "name": "Roadbeach Premiere",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5022509,
+          -8.6728282
+        ]
+      },
+      "id": "node/7005551248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551252",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Penida La Casa Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5424086,
+          -8.6782535
+        ]
+      },
+      "id": "node/7005551252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551255",
+        "name": "Sunrise Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5263064,
+          -8.6774117
+        ]
+      },
+      "id": "node/7005551255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551257",
+        "name": "Apit Lawang",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.536484,
+          -8.6766114
+        ]
+      },
+      "id": "node/7005551257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551259",
+        "name": "Toro Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4915859,
+          -8.7075671
+        ]
+      },
+      "id": "node/7005551259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551261",
+        "name": "Balibal bungalows",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4881084,
+          -8.6897107
+        ]
+      },
+      "id": "node/7005551261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551267",
+        "name": "Fullmoon Bungalows",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5158971,
+          -8.6783146
+        ]
+      },
+      "id": "node/7005551267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551270",
+        "name": "Havana Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5268522,
+          -8.7207482
+        ]
+      },
+      "id": "node/7005551270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551271",
+        "name": "EGA homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4890084,
+          -8.6923633
+        ]
+      },
+      "id": "node/7005551271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551273",
+        "name": "OKA Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4882855,
+          -8.7064459
+        ]
+      },
+      "id": "node/7005551273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551274",
+        "name": "Kampuak Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.491086,
+          -8.7071137
+        ]
+      },
+      "id": "node/7005551274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551277",
+        "name": "The Mountain Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4987669,
+          -8.7091896
+        ]
+      },
+      "id": "node/7005551277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551279",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Bagus Cottage",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5336382,
+          -8.6769048
+        ]
+      },
+      "id": "node/7005551279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005551280",
+        "name": "Dayuh house",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5260407,
+          -8.7228684
+        ]
+      },
+      "id": "node/7005551280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7013061385",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "email": "info@scubajunkiepenida.com",
+        "name:en": "Scuba Junkie Penida",
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "phone": "+62 813-3895-6239",
+        "tourism": "attraction",
+        "website": "https://www.scubajunkiepenida.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4924577,
+          -8.6746333
+        ]
+      },
+      "id": "node/7013061385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7014033206",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "internet_access": "wlan",
+        "name:en": "Tegar Penida Paradise Villa & Coffee Shop",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4894517,
+          -8.6865511
+        ]
+      },
+      "id": "node/7014033206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7031777185",
+        "name:en": "Nyoman guest house & warung",
+        "phone": "+628179796525",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4501043,
+          -8.6698432
+        ]
+      },
+      "id": "node/7031777185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7053367586",
+        "internet_access": "wlan",
+        "name:en": "Hostel Bukit Sangcure",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4899572,
+          -8.687716
+        ]
+      },
+      "id": "node/7053367586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056026722",
+        "name": "Merta Beach Bungalow",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5149009,
+          -8.6766573
+        ]
+      },
+      "id": "node/7056026722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7056031588",
+        "name": "Sedaya Beach Homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5103236,
+          -8.675074
+        ]
+      },
+      "id": "node/7056031588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7063257085",
+        "name:en": "Coconut bungalow",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5158768,
+          -8.6785479
+        ]
+      },
+      "id": "node/7063257085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7080876985",
+        "addr:postcode": "7881",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "name:en": "Scuba Junkie Penida",
+        "opening_hours": "Mo-Su 07:00-18:00",
+        "phone": "+62 812 38386276",
+        "tourism": "information",
+        "website": "https://www.scubajunkiepenida.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4921312,
+          -8.6749641
+        ]
+      },
+      "id": "node/7080876985"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7147985385",
+        "internet_access": "wlan",
+        "name:en": "Katonhill",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5205782,
+          -8.7299059
+        ]
+      },
+      "id": "node/7147985385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7147985386",
+        "internet_access": "wlan",
+        "name:en": "Katon Hills",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5200327,
+          -8.7286759
+        ]
+      },
+      "id": "node/7147985386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7157689685",
+        "internet_access": "wlan",
+        "name:en": "Hostel bukit sangcure",
+        "name:fr": "Hostel bukit sangcure",
+        "tourism": "hostel",
+        "website": "https://www.booking.com/Share-n4aors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4900167,
+          -8.6876906
+        ]
+      },
+      "id": "node/7157689685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7171780785",
+        "internet_access": "wlan",
+        "name:en": "Bale Lebung Bungalow",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4643541,
+          -8.7181153
+        ]
+      },
+      "id": "node/7171780785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7176822586",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4720191,
+          -8.7531254
+        ]
+      },
+      "id": "node/7176822586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7304865485",
+        "name:en": "Happy Penida Hostel (good location)",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4889547,
+          -8.6806096
+        ]
+      },
+      "id": "node/7304865485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7740148186",
+        "name:en": "Abangan Hill viewpoint",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.593672,
+          -8.788663
+        ]
+      },
+      "id": "node/7740148186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7935666785",
+        "internet_access": "wlan",
+        "name:en": "Nuansa Nusa Homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5591204,
+          -8.6730483
+        ]
+      },
+      "id": "node/7935666785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8181612917",
+        "name:en": "GEDE",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5003489,
+          -8.6745345
+        ]
+      },
+      "id": "node/8181612917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9768596517",
+        "name:en": "Sunrise Penida Hill",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4826921,
+          -8.6873976
+        ]
+      },
+      "id": "node/9768596517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9784515717",
+        "name": "Lembongan Summer House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4508772,
+          -8.667021
+        ]
+      },
+      "id": "node/9784515717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9794319717",
+        "name": "Kelingking Mesari villa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4772049,
+          -8.7494258
+        ]
+      },
+      "id": "node/9794319717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9897533818",
+        "name": "Sakti ocean wiev",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4667411,
+          -8.7043754
+        ]
+      },
+      "id": "node/9897533818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9909404017",
+        "name": "Sebuluh sunset hills",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.495237,
+          -8.7509965
+        ]
+      },
+      "id": "node/9909404017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9963599517",
+        "name": "Double D hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5531183,
+          -8.6767703
+        ]
+      },
+      "id": "node/9963599517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9963608117",
+        "name": "Sental",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5105245,
+          -8.6691113
+        ]
+      },
+      "id": "node/9963608117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10015162318",
+        "internet_access": "wlan",
+        "name": "Maharga Bungalows",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4633502,
+          -8.717371
+        ]
+      },
+      "id": "node/10015162318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10044734817",
+        "name:en": "Bila Penida Resort&Spa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5348419,
+          -8.7114026
+        ]
+      },
+      "id": "node/10044734817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10060639817",
+        "name:en": "Mount sea view bungalow",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4908654,
+          -8.6984701
+        ]
+      },
+      "id": "node/10060639817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10137208120",
+        "name": "Ray homestay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5560533,
+          -8.6737516
+        ]
+      },
+      "id": "node/10137208120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164178617",
+        "internet_access": "wlan",
+        "name:en": "Bila Penida Resort and Farm",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5346983,
+          -8.7112912
+        ]
+      },
+      "id": "node/10164178617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10234649317",
+        "name": "Japa Bungalow",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4913296,
+          -8.7039933
+        ]
+      },
+      "id": "node/10234649317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10299654609",
+        "name:en": "Maisn abandonnée",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4691106,
+          -8.74627
+        ]
+      },
+      "id": "node/10299654609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10762303905",
+        "internet_access": "wlan",
+        "name": "Daphila Cottege",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5414439,
+          -8.6772542
+        ]
+      },
+      "id": "node/10762303905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10763651005",
+        "contact:website": "https://atalayavillas.com/",
+        "name:en": "Atalaya Villas",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4697811,
+          -8.7133094
+        ]
+      },
+      "id": "node/10763651005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10766427205",
+        "name:en": "Nusa Penida Port",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4883565,
+          -8.6770041
+        ]
+      },
+      "id": "node/10766427205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10875066205",
+        "name:en": "Path to Gamat Bay Start",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4681527,
+          -8.7044923
+        ]
+      },
+      "id": "node/10875066205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10897790905",
+        "name:en": "The Catar Cottages",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4883653,
+          -8.6936457
+        ]
+      },
+      "id": "node/10897790905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10917955406",
+        "name:en": "Debbie is a legend",
+        "tourism": "apartment"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5688563,
+          -8.6762173
+        ]
+      },
+      "id": "node/10917955406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11048073460",
+        "name": "KKorok Hill Cottage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4853001,
+          -8.6844396
+        ]
+      },
+      "id": "node/11048073460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11180800037",
+        "name:en": "Adi bungalow",
+        "tourism": "alpine_hut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5002905,
+          -8.6751618
+        ]
+      },
+      "id": "node/11180800037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11420325909",
+        "addr:city": "Sakti",
+        "addr:postcode": "80711",
+        "addr:street": "Jln raya pangket",
+        "air_conditioning": "yes",
+        "guest_house": "guest_house",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Bagia Bungallows",
+        "name": "Bagia Bungallows",
+        "phone": "085237843891",
+        "tourism": "guest_house",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.502377,
+          -8.7119045
+        ]
+      },
+      "id": "node/11420325909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11432847769",
+        "name:en": "tara hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5635519,
+          -8.6743404
+        ]
+      },
+      "id": "node/11432847769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11449085069",
+        "internet_access": "wlan",
+        "name:en": "Crystal Bay Villa & Residence",
+        "opening_hours": "7:00-22:00",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4651565,
+          -8.7183276
+        ]
+      },
+      "id": "node/11449085069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11464625889",
+        "description": "Mangrove observation tower",
+        "man_made": "tower",
+        "tourism": "viewpoint",
+        "tower:type": "observation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.45298,
+          -8.6940825
+        ]
+      },
+      "id": "node/11464625889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11530126678",
+        "name": "Tare Lagoon",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4521437,
+          -8.7468771
+        ]
+      },
+      "id": "node/11530126678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11571688067",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Dagan bungalow",
+        "rooms": "4",
+        "swimming_pool": "yes",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4904187,
+          -8.7037101
+        ]
+      },
+      "id": "node/11571688067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11778007770",
+        "name": "Bb resort",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4973386,
+          -8.7216268
+        ]
+      },
+      "id": "node/11778007770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11921663669",
+        "name:es": "BB Resort Villa and Spa",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4979196,
+          -8.7205269
+        ]
+      },
+      "id": "node/11921663669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11957599106",
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4511276,
+          -8.6946384
+        ]
+      },
+      "id": "node/11957599106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11957599107",
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4511763,
+          -8.6946206
+        ]
+      },
+      "id": "node/11957599107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11957663787",
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4507355,
+          -8.6934224
+        ]
+      },
+      "id": "node/11957663787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11957663823",
+        "artwork_type": "statue",
+        "tourism": "artwork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4507091,
+          -8.6934322
+        ]
+      },
+      "id": "node/11957663823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11963893639",
+        "direction": "267",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4965433,
+          -8.7706632
+        ]
+      },
+      "id": "node/11963893639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11963893642",
+        "direction": "203",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4970478,
+          -8.7706779
+        ]
+      },
+      "id": "node/11963893642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11965685143",
+        "name": "Froggy Home Stay",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4514859,
+          -8.6681129
+        ]
+      },
+      "id": "node/11965685143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12541413096",
+        "name": "Egas hostel",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5674845,
+          -8.6751034
+        ]
+      },
+      "id": "node/12541413096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12550061296",
+        "contact:email": "info@mahalokavalley.com",
+        "contact:phone": "+62 81237558789",
+        "contact:website": "https://mahalokavalley.com/index.html",
+        "internet_access": "wlan",
+        "name": "Mahaloka Valley",
+        "tourism": "chalet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4676805,
+          -8.71609
+        ]
+      },
+      "id": "node/12550061296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12756455901",
+        "contact:instagram": "penidaproject",
+        "email": "bookings@thepenidaproject.com",
+        "internet_access": "wlan",
+        "name:en": "The Penida Project Hostel",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "phone": "+628 223 537 2388",
+        "tourism": "hostel",
+        "website": "https://www.thepenidaproject.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5207155,
+          -8.695857
+        ]
+      },
+      "id": "node/12756455901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12834851264",
+        "addr:street": "Jalan Crystal Bay",
+        "name": "Meket Bungalows",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4699973,
+          -8.7111623
+        ]
+      },
+      "id": "node/12834851264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12834851265",
+        "addr:street": "Jalan Crystal Bay",
+        "name": "Sukawati Inn",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4701658,
+          -8.7104366
+        ]
+      },
+      "id": "node/12834851265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12835168120",
+        "addr:district": "Klungkung",
+        "addr:housename": "Banjar Parangan Tengah Ceningan Kangin",
+        "addr:neighbourhood": "Lembongan",
+        "addr:postcode": "80771",
+        "addr:province": "Bali",
+        "addr:subdistrict": "Nusa Penida",
+        "email": "nusaceninganr@gmail.com",
+        "name": "Pramana Nusa Ceningan Resort",
+        "phone": "+62 811 3884 599",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4623458,
+          -8.6893151
+        ]
+      },
+      "id": "node/12835168120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12862523339",
+        "name": "Crystal Bay Bungalows",
+        "old_name": "Crystal Bay Pool View Bungalows",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.464275,
+          -8.7184311
+        ]
+      },
+      "id": "node/12862523339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12863375551",
+        "attraction": "bungee",
+        "name": "Extreme Park Bali",
+        "tourism": "attraction",
+        "website": "https://xpark.fun/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4663838,
+          -8.7456841
+        ]
+      },
+      "id": "node/12863375551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12865675731",
+        "amenity": "restaurant",
+        "name": "Nusava",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4704056,
+          -8.710048
+        ]
+      },
+      "id": "node/12865675731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12990964601",
+        "name": "Bataran garden cottage",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5411581,
+          -8.6785794
+        ]
+      },
+      "id": "node/12990964601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12990965301",
+        "name": "Green valley Bungalows",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5752603,
+          -8.7009547
+        ]
+      },
+      "id": "node/12990965301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12996676001",
+        "name": "Le green Village",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4936377,
+          -8.691114
+        ]
+      },
+      "id": "node/12996676001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13041751502",
+        "name": "Putra Bali Villa by Bukit Vista",
+        "tourism": "guest_house"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.5144494,
+          -8.6790071
+        ]
+      },
+      "id": "node/13041751502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13073491601",
+        "addr:street": "Jalan Raya Toya Pakeh - Ped",
+        "name:en": "Nusa Penida Pudak Nature Bungalow",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4993508,
+          -8.6779574
+        ]
+      },
+      "id": "node/13073491601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13369914101",
+        "tourism": "viewpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4572823,
+          -8.6978314
+        ]
+      },
+      "id": "node/13369914101"
+    }
+  ]
+}
